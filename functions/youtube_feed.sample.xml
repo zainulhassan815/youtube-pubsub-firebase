@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed
+    xmlns:yt="http://www.youtube.com/xml/schemas/2015"
+    xmlns="http://www.w3.org/2005/Atom">
+    <link rel="hub" href="https://pubsubhubbub.appspot.com"/>
+    <link rel="self" href="https://www.youtube.com/xml/feeds/videos.xml?channel_id=UCYmGtxXYq4MyVtMY9HNawsQ"/>
+    <title>YouTube video feed</title>
+    <updated>2022-01-23T09:41:48.83928506+00:00</updated>
+    <entry>
+        <id>yt:video:I2FcfAbaj2k</id>
+        <yt:videoId>I2FcfAbaj2k</yt:videoId>
+        <yt:channelId>UCYmGtxXYq4MyVtMY9HNawsQ</yt:channelId>
+        <title>Easy Explanation Of Conceptual Questions 1</title>
+        <link rel="alternate" href="https://www.youtube.com/watch?v=I2FcfAbaj2k"/>
+        <author>
+            <name>Scientific Erudition</name>
+            <uri>https://www.youtube.com/channel/UCYmGtxXYq4MyVtMY9HNawsQ</uri>
+        </author>
+        <published>2022-01-23T09:39:23+00:00</published>
+        <updated>2022-01-23T09:41:48.83928506+00:00</updated>
+    </entry>
+</feed>
